@@ -1,0 +1,4 @@
+list_groups
+add_group(1, "A")
+add_group(2, "B")
+list_groups

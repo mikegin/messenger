@@ -1,0 +1,4 @@
+list_users
+add_user(1, "Tim")
+add_user(2, "Bob")
+list_users

@@ -1,0 +1,7 @@
+add_user(1, "Bob")
+add_user(2, "Tim")
+add_group(1, "A")
+register_user(1, 1)
+register_user(2, 1)
+send_message(1, 1, "This is my message. Please read it.")
+read_message(2, 1)

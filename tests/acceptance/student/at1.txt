@@ -1,0 +1,8 @@
+add_user(1, "Tim")
+add_group(1, "A")
+register_user(1, 1)
+send_message(1, 1, "Test")
+send_message(1, 1, "ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+add_user(2, "Tom")
+register_user(2, 1)
+send_message(2, 1, "Hello I am new here. How is it going?")
